@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/MockUp_DAP.iml" filepath="$PROJECT_DIR$/MockUp_DAP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/MockUp_DAP.iml" filepath="$PROJECT_DIR$/.idea/MockUp_DAP.iml" />
     </modules>
   </component>
 </project>
