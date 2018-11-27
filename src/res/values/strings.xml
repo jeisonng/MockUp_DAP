@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Que animal é esse?</string>
+    <string name="images_descriptions">Icones de animais.</string>
+    <string name="btnOK">OK</string>
+    <string name="interrogation">"???"</string>
+    <string name="nameAnimals0">Vaca</string>
+    <string name="nameAnimals1">Cachorro</string>
+    <string name="nameAnimals2">Chimpanzé</string>
+    <string name="nameAnimals3">Gato</string>
+    <string name="nameAnimals4">Lobo</string>
+    <string name="nameAnimals5">Urso</string>
+    <string name="nameAnimals6">Abelha</string>
+    <string name="nameAnimals7">Golfinho</string>
+    <string name="nameAnimals8">Pombo</string>
+    <string name="nameAnimals9">Pato</string>
+    <string name="nameAnimals10">Águia</string>
+    <string name="nameAnimals11">Elefante</string>
+    <string name="nameAnimals12">Mosca</string>
+    <string name="nameAnimals13">Sapo</string>
+    <string name="nameAnimals14">Cavalo</string>
+    <string name="nameAnimals15">Leão</string>
+    <string name="nameAnimals16">Baleia</string>
+    <string name="nameAnimals17">Coruja</string>
+    <string name="nameAnimals18">Papagaio</string>
+    <string name="nameAnimals19">Pinguin</string>
+    <string name="nameAnimals20">Porco</string>
+    <string name="nameAnimals21">Ovelha</string>
+    <string name="nameAnimals22">Tigre</string>
+    <string name="nameAnimals23">Galo</string>
+</resources>
